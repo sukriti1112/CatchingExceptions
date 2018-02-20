@@ -32,5 +32,5 @@ int main()
     {
         cout<<"\n Square root of negative number not possible!"<<endl;
     }
-    system("PAUSE");
+    return 0;
 }
